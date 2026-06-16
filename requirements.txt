@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+openai-whisper
+python-dotenv
+reportlab
