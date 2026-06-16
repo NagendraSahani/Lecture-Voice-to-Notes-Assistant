@@ -69,7 +69,31 @@ Lecture Voice to Notes Assistant/
 ├── requirements.txt
 └── README.md
 ```
+---
 
+## 🖼️ Application Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+### 📝 Smart Notes
+
+![Notes](assets/notes.png)
+
+### ❓ Quiz Generator
+
+![Quiz](assets/quiz.png)
+
+### 🎴 Flashcards
+
+![Flashcards](assets/flashcards.png)
+
+### 🤖 AI Tutor
+
+![Tutor](assets/tutor.png)
+
+---
 ---
 
 ## ⚙️ Installation
